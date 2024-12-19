@@ -48,5 +48,5 @@ This project involves creating an interactive dashboard using **Power BI** to an
 ---
 
 ## 📧 Contact  
-- **LinkedIn:**  linkedin.com/in/tsabeh-hamed-data-analyst
+- **LinkedIn:**  https://www.linkedin.com/in/tsabeh-hamed-data-analyst
 - **Email:** tsabehamed@gmail.com
