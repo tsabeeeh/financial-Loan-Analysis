@@ -1,4 +1,3 @@
-# financial-Loan-Analysis
 # 💰 Financial Loan Analysis Dashboard
 
 ## 📄 Project Overview  
